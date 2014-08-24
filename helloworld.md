@@ -1,3 +1,3 @@
 ## This is a markdown File
-### This is smaller subhead
+### This is smaller subheading
 
